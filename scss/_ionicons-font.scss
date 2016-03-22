@@ -1,6 +1,8 @@
 // Ionicons Font Path
 // --------------------------
 
+// decided to define this font-face in somewhere else
+/*
 @font-face {
  font-family: $ionicons-font-family;
  src:url("#{$ionicons-font-path}/ionicons.eot?v=#{$ionicons-version}");
@@ -11,6 +13,7 @@
  font-weight: normal;
  font-style: normal;
 }
+*/
 
 .ion {
   display: inline-block;
