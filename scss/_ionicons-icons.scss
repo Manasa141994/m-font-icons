@@ -6,7 +6,8 @@
 .#{$ionicons-prefix}asset-tab:before,
 .#{$ionicons-prefix}home-tab:before,
 .#{$ionicons-prefix}ios-arrow-forward:before,
-.#{$ionicons-prefix}news-tab:before
+.#{$ionicons-prefix}news-tab:before,
+.#{$ionicons-prefix}record:before
 {
   @extend .ion;
 }
@@ -15,3 +16,4 @@
 .#{$ionicons-prefix}home-tab:before { content: $ionicon-var-home-tab; }
 .#{$ionicons-prefix}ios-arrow-forward:before { content: $ionicon-var-ios-arrow-forward; }
 .#{$ionicons-prefix}news-tab:before { content: $ionicon-var-news-tab; }
+.#{$ionicons-prefix}record:before { content: $ionicon-var-record; }

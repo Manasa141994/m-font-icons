@@ -1,5 +1,5 @@
 {
-  "build_hash": "a4f527006ae81ba39f3c2d952e455ac6",
+  "build_hash": "07abc6b6394903af88e91d5422ba748e",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -17,12 +17,16 @@
       "name": "home-tab"
     },
     {
+      "code": "0xf145",
+      "name": "ios-arrow-forward"
+    },
+    {
       "code": "0xf3d1",
       "name": "news-tab"
     },
     {
-      "code": "0xf145",
-      "name": "ios-arrow-forward"
+      "code": "0xf100",
+      "name": "record"
     }
   ]
 }

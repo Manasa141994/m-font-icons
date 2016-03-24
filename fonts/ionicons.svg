@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-3-21: Created with FontForge (http://fontforge.org)
+2016-3-24: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150828 at Mon Mar 21 15:54:07 2016
+Created by FontForge 20150828 at Thu Mar 24 15:41:53 2016
  By 杨 博
 Copyright (c) 2016, &#230;&#157;&#168; &#229;&#141;&#154;
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2016, &#230;&#157;&#168; &#229;&#141;&#154;
     bbox="0 -75 533 459"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F138-F3D1"
+    unicode-range="U+F100-F3D1"
   />
     <missing-glyph />
     <glyph glyph-name="ion-account-tab" unicode="&#xf138;" horiz-adv-x="522" 
@@ -35,9 +35,11 @@ d="M21 192c0 135 111 245 246 245s245 -110 245 -245s-110 -245 -245 -245s-246 110 
 h336z" />
     <glyph glyph-name="ion-home-tab" unicode="&#xf13c;" 
 d="M21 192c0 135 111 245 246 245s245 -110 245 -245s-110 -245 -245 -245s-246 110 -246 245zM0 192c0 -147 120 -267 267 -267s266 120 266 267s-119 267 -266 267s-267 -120 -267 -267zM36 104l14 -16l129 113l94 -93l176 161l-15 16l-160 -147l-94 92z" />
-    <glyph glyph-name="ion-ios-arrow-forward" unicode="&#xf3d1;" horiz-adv-x="192" 
+    <glyph glyph-name="ion-ios-arrow-forward" unicode="&#xf145;" horiz-adv-x="192" 
 d="M0 320l32 32l160 -160v0v0l-160 -160l-32 32l127 128z" />
-    <glyph glyph-name="ion-news-tab" unicode="&#xf145;" horiz-adv-x="490" 
+    <glyph glyph-name="ion-news-tab" unicode="&#xf3d1;" horiz-adv-x="490" 
 d="M22 -53v490h445v-490h-445zM0 -75h490v534h-490v-534zM111 337v-23h267v23h-267zM111 248v-23h267v23h-267zM111 159v-23h145v23h-145z" />
+    <glyph glyph-name="ion-record" unicode="&#xf100;" horiz-adv-x="416" 
+d="M208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -208 -208z" />
   </font>
 </defs></svg>
