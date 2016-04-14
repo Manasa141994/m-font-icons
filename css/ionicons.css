@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*
+/*!
   Ionicons, v2.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
@@ -11,15 +11,22 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.1"); src: url("../fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.1") format("truetype"), url("../fonts/ionicons.woff?v=2.0.1") format("woff"), url("../fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
+.ion, .ionicons, .ion-account-tab:before, .ion-android-arrow-dropdown:before, .ion-android-arrow-dropup:before, .ion-asset-tab:before, .ion-home-tab:before, .ion-ios-arrow-forward:before, .ion-news-tab:before, .ion-record:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.ion, .ionicons, .ion-account-tab:before, .ion-asset-tab:before, .ion-home-tab:before, .ion-ios-arrow-forward:before, .ion-news-tab:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-account-tab:before { content: ""; }
 
-.ion-account-tab:before { content: "\f138"; }
+.ion-android-arrow-dropdown:before { content: ""; }
 
-.ion-asset-tab:before { content: "\f13b"; }
+.ion-android-arrow-dropup:before { content: ""; }
 
-.ion-home-tab:before { content: "\f13c"; }
+.ion-asset-tab:before { content: ""; }
 
-.ion-ios-arrow-forward:before { content: "\f3d1"; }
+.ion-home-tab:before { content: ""; }
 
-.ion-news-tab:before { content: "\f145"; }
+.ion-ios-arrow-forward:before { content: ""; }
+
+.ion-news-tab:before { content: ""; }
+
+.ion-record:before { content: ""; }
+
+/*# sourceMappingURL=ionicons.css.map */

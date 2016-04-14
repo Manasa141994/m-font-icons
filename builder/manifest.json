@@ -1,5 +1,5 @@
 {
-  "build_hash": "07abc6b6394903af88e91d5422ba748e",
+  "build_hash": "a3e83b2aeee1f24c79cbc50eb454f60f",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -7,6 +7,14 @@
     {
       "code": "0xf138",
       "name": "account-tab"
+    },
+    {
+      "code": "0xf101",
+      "name": "android-arrow-dropdown"
+    },
+    {
+      "code": "0xf102",
+      "name": "android-arrow-dropup"
     },
     {
       "code": "0xf13b",

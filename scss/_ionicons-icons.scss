@@ -3,6 +3,8 @@
 
 .ionicons,
 .#{$ionicons-prefix}account-tab:before,
+.#{$ionicons-prefix}android-arrow-dropdown:before,
+.#{$ionicons-prefix}android-arrow-dropup:before,
 .#{$ionicons-prefix}asset-tab:before,
 .#{$ionicons-prefix}home-tab:before,
 .#{$ionicons-prefix}ios-arrow-forward:before,
@@ -12,6 +14,8 @@
   @extend .ion;
 }
 .#{$ionicons-prefix}account-tab:before { content: $ionicon-var-account-tab; }
+.#{$ionicons-prefix}android-arrow-dropdown:before { content: $ionicon-var-android-arrow-dropdown; }
+.#{$ionicons-prefix}android-arrow-dropup:before { content: $ionicon-var-android-arrow-dropup; }
 .#{$ionicons-prefix}asset-tab:before { content: $ionicon-var-asset-tab; }
 .#{$ionicons-prefix}home-tab:before { content: $ionicon-var-home-tab; }
 .#{$ionicons-prefix}ios-arrow-forward:before { content: $ionicon-var-ios-arrow-forward; }
