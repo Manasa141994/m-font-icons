@@ -1,9 +1,13 @@
 {
-  "build_hash": "a3e83b2aeee1f24c79cbc50eb454f60f",
+  "build_hash": "3548483d54db0751e4cf2d573990ebff",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf103",
+      "name": "account"
+    },
     {
       "code": "0xf138",
       "name": "account-tab"
@@ -21,20 +25,48 @@
       "name": "asset-tab"
     },
     {
+      "code": "0xf104",
+      "name": "home"
+    },
+    {
       "code": "0xf13c",
       "name": "home-tab"
+    },
+    {
+      "code": "0xf105",
+      "name": "invite-gift"
     },
     {
       "code": "0xf145",
       "name": "ios-arrow-forward"
     },
     {
+      "code": "0xf106",
+      "name": "message"
+    },
+    {
       "code": "0xf3d1",
       "name": "news-tab"
     },
     {
+      "code": "0xf107",
+      "name": "products"
+    },
+    {
       "code": "0xf100",
       "name": "record"
+    },
+    {
+      "code": "0xf108",
+      "name": "safe-gurad"
+    },
+    {
+      "code": "0xf109",
+      "name": "search"
+    },
+    {
+      "code": "0xf10a",
+      "name": "support-person"
     }
   ]
 }
