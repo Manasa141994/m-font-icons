@@ -1,5 +1,5 @@
 {
-  "build_hash": "3548483d54db0751e4cf2d573990ebff",
+  "build_hash": "db0c7f4335e2c44151a72cddbc18f2d2",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -43,6 +43,14 @@
     {
       "code": "0xf106",
       "name": "message"
+    },
+    {
+      "code": "0xf10b",
+      "name": "message-bell"
+    },
+    {
+      "code": "0xf10c",
+      "name": "message-order"
     },
     {
       "code": "0xf3d1",

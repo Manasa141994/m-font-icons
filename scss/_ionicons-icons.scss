@@ -2,22 +2,18 @@
 // --------------------------
 
 .ionicons,
-.#{$ionicons-prefix}account:before,
-.#{$ionicons-prefix}home:before,
 .#{$ionicons-prefix}invite-gift:before,
-.#{$ionicons-prefix}message:before,
-.#{$ionicons-prefix}products:before,
+.#{$ionicons-prefix}message-bell:before,
+.#{$ionicons-prefix}message-order:before,
 .#{$ionicons-prefix}safe-gurad:before,
 .#{$ionicons-prefix}search:before,
 .#{$ionicons-prefix}support-person:before
 {
   @extend .ion;
 }
-.#{$ionicons-prefix}account:before { content: $ionicon-var-account; }
-.#{$ionicons-prefix}home:before { content: $ionicon-var-home; }
 .#{$ionicons-prefix}invite-gift:before { content: $ionicon-var-invite-gift; }
-.#{$ionicons-prefix}message:before { content: $ionicon-var-message; }
-.#{$ionicons-prefix}products:before { content: $ionicon-var-products; }
+.#{$ionicons-prefix}message-bell:before { content: $ionicon-var-message-bell; }
+.#{$ionicons-prefix}message-order:before { content: $ionicon-var-message-order; }
 .#{$ionicons-prefix}safe-gurad:before { content: $ionicon-var-safe-gurad; }
 .#{$ionicons-prefix}search:before { content: $ionicon-var-search; }
 .#{$ionicons-prefix}support-person:before { content: $ionicon-var-support-person; }

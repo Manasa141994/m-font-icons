@@ -1,28 +1,20 @@
 {
-  "build_hash": "a3e83b2aeee1f24c79cbc50eb454f60f",
+  "build_hash": "3548483d54db0751e4cf2d573990ebff",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
     {
-      "code": "0xf103",
-      "name": "account"
-    },
-    {
-      "code": "0xf104",
-      "name": "home"
-    },
-    {
       "code": "0xf105",
       "name": "invite-gift"
     },
     {
-      "code": "0xf106",
-      "name": "message"
+      "code": "0xf10b",
+      "name": "message-bell"
     },
     {
-      "code": "0xf107",
-      "name": "products"
+      "code": "0xf10c",
+      "name": "message-order"
     },
     {
       "code": "0xf108",
