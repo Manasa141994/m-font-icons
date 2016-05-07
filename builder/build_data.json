@@ -1,9 +1,17 @@
 {
-  "build_hash": "3548483d54db0751e4cf2d573990ebff",
+  "build_hash": "db0c7f4335e2c44151a72cddbc18f2d2",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf10d",
+      "name": "back"
+    },
+    {
+      "code": "0xf10e",
+      "name": "done"
+    },
     {
       "code": "0xf105",
       "name": "invite-gift"
@@ -15,6 +23,10 @@
     {
       "code": "0xf10c",
       "name": "message-order"
+    },
+    {
+      "code": "0xf10f",
+      "name": "photo"
     },
     {
       "code": "0xf108",

@@ -1,5 +1,5 @@
 {
-  "build_hash": "db0c7f4335e2c44151a72cddbc18f2d2",
+  "build_hash": "fd29ed1346d9d23b90b75c23a49601b5",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -23,6 +23,14 @@
     {
       "code": "0xf13b",
       "name": "asset-tab"
+    },
+    {
+      "code": "0xf10d",
+      "name": "back"
+    },
+    {
+      "code": "0xf10e",
+      "name": "done"
     },
     {
       "code": "0xf104",
@@ -55,6 +63,10 @@
     {
       "code": "0xf3d1",
       "name": "news-tab"
+    },
+    {
+      "code": "0xf10f",
+      "name": "photo"
     },
     {
       "code": "0xf107",

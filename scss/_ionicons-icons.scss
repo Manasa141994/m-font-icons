@@ -2,18 +2,24 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}back:before,
+.#{$ionicons-prefix}done:before,
 .#{$ionicons-prefix}invite-gift:before,
 .#{$ionicons-prefix}message-bell:before,
 .#{$ionicons-prefix}message-order:before,
+.#{$ionicons-prefix}photo:before,
 .#{$ionicons-prefix}safe-gurad:before,
 .#{$ionicons-prefix}search:before,
 .#{$ionicons-prefix}support-person:before
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}back:before { content: $ionicon-var-back; }
+.#{$ionicons-prefix}done:before { content: $ionicon-var-done; }
 .#{$ionicons-prefix}invite-gift:before { content: $ionicon-var-invite-gift; }
 .#{$ionicons-prefix}message-bell:before { content: $ionicon-var-message-bell; }
 .#{$ionicons-prefix}message-order:before { content: $ionicon-var-message-order; }
+.#{$ionicons-prefix}photo:before { content: $ionicon-var-photo; }
 .#{$ionicons-prefix}safe-gurad:before { content: $ionicon-var-safe-gurad; }
 .#{$ionicons-prefix}search:before { content: $ionicon-var-search; }
 .#{$ionicons-prefix}support-person:before { content: $ionicon-var-support-person; }
