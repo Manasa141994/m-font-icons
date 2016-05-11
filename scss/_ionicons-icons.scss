@@ -3,6 +3,8 @@
 
 .ionicons,
 .#{$ionicons-prefix}back:before,
+.#{$ionicons-prefix}cancel:before,
+.#{$ionicons-prefix}check-mark:before,
 .#{$ionicons-prefix}done:before,
 .#{$ionicons-prefix}invite-gift:before,
 .#{$ionicons-prefix}message-bell:before,
@@ -15,6 +17,8 @@
   @extend .ion;
 }
 .#{$ionicons-prefix}back:before { content: $ionicon-var-back; }
+.#{$ionicons-prefix}cancel:before { content: $ionicon-var-cancel; }
+.#{$ionicons-prefix}check-mark:before { content: $ionicon-var-check-mark; }
 .#{$ionicons-prefix}done:before { content: $ionicon-var-done; }
 .#{$ionicons-prefix}invite-gift:before { content: $ionicon-var-invite-gift; }
 .#{$ionicons-prefix}message-bell:before { content: $ionicon-var-message-bell; }
