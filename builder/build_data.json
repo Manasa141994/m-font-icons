@@ -1,5 +1,5 @@
 {
-  "build_hash": "fd29ed1346d9d23b90b75c23a49601b5",
+  "build_hash": "9609fe6bd48f0a55107ccd69a12f1ce4",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -15,6 +15,14 @@
     {
       "code": "0xf111",
       "name": "check-mark"
+    },
+    {
+      "code": "0xf112",
+      "name": "chevron-down"
+    },
+    {
+      "code": "0xf113",
+      "name": "chevron-up"
     },
     {
       "code": "0xf10e",

@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-5-11: Created with FontForge (http://fontforge.org)
+2016-6-1: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150828 at Wed May 11 14:55:12 2016
+Created by FontForge 20150828 at Wed Jun  1 11:22:19 2016
  By 杨 博
 Copyright (c) 2016, &#230;&#157;&#168; &#229;&#141;&#154;
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2016, &#230;&#157;&#168; &#229;&#141;&#154;
     bbox="-0.280064 -64 512 448.041"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F105-F111"
+    unicode-range="U+F105-F113"
   />
     <missing-glyph />
     <glyph glyph-name="ion-back" unicode="&#xf10d;" horiz-adv-x="304" 
@@ -31,6 +31,10 @@ d="M103 189l197 -199c5 -5 5 -12 0 -15l-35 -35c-5 -5 -13 -5 -18 0l-243 244c-5 5 -
 d="M45 439l-45 -46l448 -448l45 46zM23 416l448 -448zM0 -9l45 -46l448 448l-45 46zM23 -32l448 448z" />
     <glyph glyph-name="ion-check-mark" unicode="&#xf111;" horiz-adv-x="497" 
 d="M497 402l-39 38l-296 -304l-123 127l-39 -37l162 -167z" />
+    <glyph glyph-name="ion-chevron-down" unicode="&#xf112;" horiz-adv-x="448" 
+d="M224 150v0v0l174 167c4 4 12 4 16 0l31 -30c4 -4 4 -12 0 -16l-213 -204c-2 -2 -5 -3 -8 -3s-6 1 -8 3l-213 204c-4 4 -4 12 0 16l31 30c4 4 12 4 16 0z" />
+    <glyph glyph-name="ion-chevron-up" unicode="&#xf113;" horiz-adv-x="448" 
+d="M224 234l-174 -167c-4 -4 -12 -4 -16 0l-31 30c-4 4 -4 12 0 16l213 204c2 2 5 3 8 3s6 -1 8 -3l213 -204c4 -4 4 -12 0 -16l-31 -30c-4 -4 -12 -4 -16 0l-174 167v0v0z" />
     <glyph glyph-name="ion-done" unicode="&#xf10e;" 
 d="M256 -64c141 0 256 115 256 256s-115 256 -256 256s-256 -115 -256 -256s115 -256 256 -256zM135 223l-37 -39l135 -128l219 238l-39 36l-183 -198z" />
     <glyph glyph-name="ion-invite-gift" unicode="&#xf105;" horiz-adv-x="496" 
